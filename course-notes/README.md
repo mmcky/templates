@@ -1,0 +1,1 @@
+Course Notes template originally from https://github.com/snario/notes-template
